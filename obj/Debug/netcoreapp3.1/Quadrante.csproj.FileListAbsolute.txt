@@ -1,0 +1,13 @@
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.csprojAssemblyReference.cache
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.AssemblyInfoInputs.cache
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.AssemblyInfo.cs
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.csproj.CoreCompileInputs.cache
+C:\dev\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.exe
+C:\dev\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.deps.json
+C:\dev\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.runtimeconfig.json
+C:\dev\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.runtimeconfig.dev.json
+C:\dev\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.dll
+C:\dev\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.pdb
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.dll
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.pdb
+C:\dev\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.genruntimeconfig.cache
